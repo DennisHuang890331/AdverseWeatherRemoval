@@ -8,7 +8,7 @@ The spatial visibility of rain within the image space exhibits variability, with
 
 ## Architecture
 
-![model Architecture](image\README\Architecture.png "Overview of the proposed network. ")
+![model Architecture](image/README/Architecture.png "Overview of the proposed network. ")
 
 ## Comparison on RainCityscapes
 
